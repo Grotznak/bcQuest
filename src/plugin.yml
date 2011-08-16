@@ -1,0 +1,17 @@
+name: bcQuest
+main: Grotznak.bcQuest.bcQuest
+version: 0.3.3
+
+authors:
+  - Grotznak
+
+commands:
+    quest:
+        description: Vote for stuff
+        usage: /quest [order]
+    q:
+        description: Vote for stuff
+        usage: /q [name2]
+    bcquest:
+        description: Vote for stuff
+        usage: /quest [name3]
